@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./img/angular-svelte.png">  
 
-  <div class="m-4"></div>
+  <div style="margin-bottom: 1.5rem"></div>
 
   <img src="./img/mouse.webp">
 </div>
